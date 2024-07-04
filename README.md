@@ -41,6 +41,12 @@ python main.py
 -Spacebar: Shoot lasers.
 
 
+
+## Screenshots
+
+![Capture](https://github.com/Ashish-Patnaik/Clash-in-Space/assets/172313590/54e64e43-f7ac-4928-accf-f85123ae1020)
+
+
 ## Contribution
 
 Feel free to contribute to the project. You can do this by:
@@ -56,4 +62,20 @@ Feel free to contribute to the project. You can do this by:
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details. [MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
 
