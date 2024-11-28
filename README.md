@@ -26,9 +26,6 @@ Make sure you have Python and Pygame installed. You can install Pygame using pip
 pip install pygame
 
 
-
-
-
     
 ## How to play
 
@@ -40,6 +37,8 @@ python main.py
 -Arrow Keys: Move the spaceship.
 -Spacebar: Shoot lasers.
 
+## Download
+[ZIP FILE](https://github.com/Ashish-Patnaik/Clash-in-Space/releases/download/v1.0.0/Clash.in.Space.zip)
 
 
 ## Screenshots
